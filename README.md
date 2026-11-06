@@ -1,6 +1,6 @@
-# AI Front Desk website
+# Workflow Automations Bw website
 
-The public website for AI Front Desk, served by GitHub Pages at
+The public website for Workflow Automations Bw (AI Front Desk and business websites), served by GitHub Pages at
 https://crazykelt75-eng.github.io/ai-front-desk-site/
 
 This repo holds **built files only**. Don't edit them here. The source lives in a private repo
